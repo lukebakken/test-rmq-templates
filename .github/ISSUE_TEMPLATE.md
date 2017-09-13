@@ -1,6 +1,6 @@
 Thank you for using RabbitMQ and for taking the time to report an issue.
 
-*Important:* please first read `CONTRIBUTING.md` in the root of this repository to be sure your issue shouldn't be discussed on the [mailing list][rmq-users] first.
+*Important:* please first read the [`CONTRIBUTING`](../CONTRIBUTING.md) document in the root of this repository to be sure your issue shouldn't be discussed on the [mailing list][rmq-users] first.
 
 In order for the RabbitMQ team to investigate your issue, the following *must* be provided:
   
