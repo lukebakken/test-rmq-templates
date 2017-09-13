@@ -9,9 +9,9 @@ Team RabbitMQ uses GitHub issues for _specific actionable items_ engineers can w
 * GitHub issues are not used for questions, investigations, root cause analysis, discussions of potential issues, etc (as defined by this team)
 * We have a certain amount of information to work with
 
-We get at least a dozen questions through various venues every single day, often quite light on details. At that rate GitHub issues can very quickly turn into a something impossible to navigate and make sense of even for our team. Because of that questions, investigations, root cause analysis, discussions of potential features are all considered to be [mailing list][rmq-users] material by our team. Please post this to rabbitmq-users.
+The team receives many questions through various venues every single day. Frequently, these questions do not include the necessary details with which the team uses to begin useful work. GitHub issues can very quickly turn into a something impossible to navigate and make sense of. Because of that, questions, investigations, root cause analysis, discussions of potential features are all considered to be [mailing list][rmq-users] material by the team. If you are unsure where to begin, [`rabbitmq-users`][rmq-users] is the right place.
 
-Getting all the details necessary to reproduce an issue, make a conclusion or even form a hypothesis about what's happening can take a fair amount of time. Our team is multiple orders of magnitude smaller than the RabbitMQ community. Please help others help you by providing a way to reproduce the behavior you're observing, or at least sharing as much relevant information as possible on the [mailing list][rmq-users]:
+Getting all the details necessary to reproduce an issue, make a conclusion or even form a hypothesis about what's happening can take a fair amount of time. Please help others help you by providing a way to reproduce the behavior you're observing, or at least sharing as much relevant information as possible on the [mailing list][rmq-users]:
 
 * Versions of the following:
     * Operating system (distribution as well)
